@@ -1,0 +1,2 @@
+aigrom
+deep-translator
